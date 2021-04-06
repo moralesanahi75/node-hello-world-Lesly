@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-lesly",
+  "version": "1.0.0",
+  "description": "application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moralesanahi75/node-hello-world-lesly.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Lesly Morales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moralesanahi75/node-hello-world-lesly/issues"
+  },
+  "homepage": "https://github.com/moralesanahi75/node-hello-world-lesly#readme"
+}
